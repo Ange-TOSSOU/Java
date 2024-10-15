@@ -1,0 +1,21 @@
+iStock : https://www.istockphoto.com/fr
+Shutterstock : https://www.shutterstock.com/
+
+Author :  Christian Ullenboom
+1st Edition
+2023 by Rheinwerk Publishing Inc.
+
+Java Language Specification (JLS) : https://docs.oracle.com/javase/specs
+
+Topics we can deepen
+    - OO analysis/design
+    - Unified Modeling Language (UML)
+    - Parallel or distributed programming
+    - Enterprise JavaBeans (EJBs)
+    - Database connectivity
+    - Object-relational mapping
+    - Web services
+    - Dynamic web pages
+    - etc.
+
+ We will use : Java Platform Standard Edition (Java SE) version 17
