@@ -19,3 +19,7 @@ Topics we can deepen
     - etc.
 
  We will use : Java Platform Standard Edition (Java SE) version 17
+
+Exercises link : https://tutego.de/javabuch/aufgaben/index_en.html
+
+SAP Press : http://www.rheinwerk-computing.com/5557
