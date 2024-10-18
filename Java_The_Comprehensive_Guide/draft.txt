@@ -23,3 +23,17 @@ Topics we can deepen
 Exercises link : https://tutego.de/javabuch/aufgaben/index_en.html
 
 SAP Press : http://www.rheinwerk-computing.com/5557
+
+Xerox Palo Alto Research Center (Xerox PARC)
+
+Programming languages : MESA, Algol, Pascal, PL/B
+
+Java Development Kit (JDK)
+
+OOP : Object Oriented Programming
+
+JVM : Java Virtual Machine
+
+Bytecode
+
+Runtime environment or Runtime interpreter
